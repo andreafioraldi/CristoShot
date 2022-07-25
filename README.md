@@ -22,4 +22,4 @@ Who is the most untouchable item or person in the common morality? Ofc, Jesus Ch
 I did the sum, and I made a game in which an ass (yes an ass) throws things from its sphincter at Christ (Cristo in Italian).
 Christ is moving randomly, and when hit, he swears in Italian. Swear against the player or God, because every teenager hates a bit his father, or just say some funny stupid things.
 
-In this repo, I publish the source code that I recently rediscovered in one of the hard disks there were lost in my parent's house. What a joy when I saw this folder, I hope you will enjoy the game, it will compile for sure with Visual Studio 2010 too, and I uploaded also a precompiled .NET (4 I guess) binary that I compiled years ago.
+In this repo, I publish the source code that I recently rediscovered in one of the hard disks there were lost in my parent's house. What a joy when I saw this folder, I hope you will enjoy the game, it will compile for sure with Visual Studio 2013 too as I updated the solution. I uploaded also a precompiled .NET (4 I guess) binary that I compiled years ago.
